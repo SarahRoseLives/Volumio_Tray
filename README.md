@@ -43,14 +43,9 @@ This repository contains a simple system tray application for controlling Volumi
 
 To configure the Volumio server URL, access the "Settings" option from the system tray icon. Enter the URL, and the app will save it for future use.
 
-## Issues and Contributions
-
-If you encounter any issues or have suggestions for improvement, feel free to [open an issue](https://github.com/yourusername/volumio-skip-tray/issues). Contributions are welcome through pull requests.
-
 ## License
 
 This project is placed in the public domain through the [Unlicense](LICENSE).
 
 ---
 
-**Note:** Replace "yourusername" with your GitHub username or the organization name if it's a part of an organization.
