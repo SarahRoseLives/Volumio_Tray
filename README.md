@@ -34,7 +34,7 @@ This repository contains a simple system tray application for controlling Volumi
 3. Run the tray app:
 
     ```bash
-    python volumio_skip_tray.py
+    python volumio_tray.py
     ```
 
 4. Access the system tray icon to control your Volumio music playback.
