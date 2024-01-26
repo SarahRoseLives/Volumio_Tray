@@ -49,7 +49,7 @@ If you encounter any issues or have suggestions for improvement, feel free to [o
 
 ## License
 
-This project is placed in the public domain through the [Unlicense](UNLICENSE).
+This project is placed in the public domain through the [Unlicense](LICENSE).
 
 ---
 
